@@ -15,3 +15,4 @@ The primary change is in the source code. The following changes were made to the
 - 6 additional switches
 - No resistors before or after potentiometer/switch lugs, software value filtering makes them unnecessary
 - Volume pot changed from 1M log to 100K linear.
+- Added a connector for wall power, 7.5-12v (but the lower the better, ideally under 9v). Using a dedicated power supply instead of USB greatly reduces noise.
