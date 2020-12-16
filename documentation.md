@@ -1,6 +1,7 @@
 <h1>DOCUMENTATION</h1>
 This synth, including the source code and this documentatino, was originally designed and made as a present. If you're not the original recepient of that present some stuff in here might not make sense to you.
 <h2>IMPORTANT SAFETY STUFF READ BEFORE USING</h2>
+
 - Torpedo 1 requires a 7.5-12v center-positive power supply. The lower the better, ideally 9v or under, as higher voltages can increase heat and lower the overall lifespan of the microcontroller. If you don't have an appropriate power supply, you can power it via USB by removing the back cover and plugging a USB cable directly into the Arduino, but this will cause much more noise when playing.
 
 - Remove the back and visually inspect the inside to make sure no wires came loose during shipping before plugging it in to your interface/controller. If nothing is obviously loose the MIDI plug is totally safe to connect to your interface/controller, but it might be wise to test the audio out with cheap headphones or speakers before plugging it into your interface.
